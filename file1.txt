@@ -1,1 +1,2 @@
-This is file1 in mybranch
+This is my file
+Changed in mybranch

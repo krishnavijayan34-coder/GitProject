@@ -1,3 +1,6 @@
 This is my file
+
 Changed in master
 changed twice
+Changed in mybranch
+mybranch
